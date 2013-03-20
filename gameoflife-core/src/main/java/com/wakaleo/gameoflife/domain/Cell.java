@@ -16,9 +16,6 @@ public enum Cell {
 
     static Cell fromSymbol(final String symbol) {
 
-if()
-{
-}
 {System.out.println("hello");}
 
         Cell cellRepresentedBySymbol = null;
