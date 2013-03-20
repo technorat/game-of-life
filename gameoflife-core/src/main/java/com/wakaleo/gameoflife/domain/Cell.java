@@ -15,10 +15,12 @@ public enum Cell {
     }
 
     static Cell fromSymbol(final String symbol) {
-while(1)
+
+if()
 {
-System.out.println("hello");
 }
+{System.out.println("hello");}
+
         Cell cellRepresentedBySymbol = null;
         for (Cell cell : Cell.values()) {
             if (cell.symbol.equals(symbol)) {
